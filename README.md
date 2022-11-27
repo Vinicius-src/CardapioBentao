@@ -1,11 +1,13 @@
 # Cardápio do Bentão
 
-Esse projeto é um aplicativo Android para visualizar o cardápio do bandejão na escola Etec Bento Quirino.
+![appCardapioBentap](https://user-images.githubusercontent.com/81270407/204150040-fd664588-8ee0-4d02-a3d0-772c708107be.png)
 
-![cardapioBentao](https://user-images.githubusercontent.com/81270407/171981966-61505309-2b69-4dbd-bfd6-3d9ea4c15d53.png)![etec](https://user-images.githubusercontent.com/81270407/171981969-9f6b4101-5db4-4226-9e80-85f3a4542277.png)
+# Sobre o projeto
+Esse é um aplicativo mobile desenvolvido com intuito de melhorar a forma como os alunos da Etec Bento Quirino tem acesso as informações do cardápio de refeições da escola, tambem é possivel visuar algumas notícias e enviar feedback da refeição do dia.
+ 
+O Aplicativo foi desenvolvido usando a tecnologia Flutter dart para smartphone Android.
+As informações do cardapio são inserida através de uma pagina web tambem desenvolvido por nós, onde os dados vai para um banco de dados MySQL hospedado na ORACLE.
 
+<img  width="300" src="https://user-images.githubusercontent.com/81270407/204150875-dd473524-2023-4edf-bead-fb188c4210d6.png">
 
-## Ideia do projeto
--link para ver o mockup das telas no penpot. 
-
-https://design.penpot.app/#/view/8a30cfb0-ddd5-11ec-9f2d-f940e3befd53?page-id=8a30cfb1-ddd5-11ec-9f2d-f940e3befd53&section=interactions&index=0&share-id=7b08b820-e02a-11ec-9f2d-f940e3befd53
+![etec](https://user-images.githubusercontent.com/81270407/171981969-9f6b4101-5db4-4226-9e80-85f3a4542277.png)
